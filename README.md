@@ -23,7 +23,7 @@ split the line using .split
 ### Step 6:
 Running the program
 
-## PROGRAM:
+### PROGRAM:
 '''
 
 Program for getting the word count from the contents of a file using command line arguments
@@ -41,5 +41,5 @@ print("Number of words in a file",count)
 ### OUTPUT:
 ![image](https://github.com/Daniel-christal/command-line-arguments-to-count-word/assets/145742847/f800e522-90f8-4035-9f76-11566b6c14b5)
 
-## RESULT:
+### RESULT:
 Thus the program is written to find the word count from the contents of a file using command line arguments.
