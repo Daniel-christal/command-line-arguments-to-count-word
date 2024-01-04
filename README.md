@@ -24,8 +24,7 @@ split the line using .split
 Running the program
 
 ### PROGRAM:
-'''
-
+```
 Program for getting the word count from the contents of a file using command line arguments
 Developed by: Daniel C
 RegisterNumber: 212223240023
@@ -36,7 +35,6 @@ for line in fp:
     words=line.split()
     count+=len(words)
 print("Number of words in a file",count)
-
 ```
 ### OUTPUT:
 ![image](https://github.com/Daniel-christal/command-line-arguments-to-count-word/assets/145742847/f800e522-90f8-4035-9f76-11566b6c14b5)
